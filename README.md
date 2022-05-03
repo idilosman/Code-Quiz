@@ -9,3 +9,4 @@ https://idilosman.github.io/Code-Quiz/
 https://github.com/idilosman/Code-Quiz 
 
 <img scr="Screenshot 2022-05-03 at 20.55.38.png">
+<img width="1440" alt="Screenshot 2022-05-03 at 22 17 44" src="https://user-images.githubusercontent.com/102623081/166568180-e0562614-b85c-470f-a5d4-458c8a6cb076.png">
